@@ -1,0 +1,9 @@
+1.机器学习 -周志华
+2.统计学习方法 -李航
+3.PLML 模式识别与机器学习
+4.ESLII The Elements of Statistical Learning
+5.Machine Learnin(Kevin P·Murphy)
+	内容巨多
+
+
+All of statics 统计入门	
